@@ -1,1 +1,1 @@
-# Pagination
+Pagination for web e-commerce
